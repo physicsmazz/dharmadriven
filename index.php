@@ -14,8 +14,8 @@ require_once 'includes/top.inc.php';
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Dharma Driven</title>
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="Dharma Driven.">
+    <meta name="keywords" content="Yoga, Wellness, Dharma">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
